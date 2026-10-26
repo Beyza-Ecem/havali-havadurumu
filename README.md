@@ -13,7 +13,3 @@ Kotlin ve Jetpack Compose ile geliştirilmiş, günlük kombin önerisi ve hava 
 * **Dil & UI:** Kotlin, Jetpack Compose (Material 3)
 * **Mimari:** MVVM (`AndroidViewModel`, `StateFlow`, `Coroutines`)
 * **Veri Kaydı:** `SharedPreferences` & REST API
-
-🚀 Kurulum
-1. Depoyu klonlayın: `git clone https://github.com/Beyza-Ecem/havali-havadurumu.git`
-2. **Android Studio** ile açıp projeyi çalıştırın (`Shift + F10`).
